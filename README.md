@@ -1,2 +1,4 @@
 # openmss.github.io
-Research about manuscripts based on openly licensed images
+
+Source for Open Manuscripts project web site hosted at <http:/openmss.github.io>.
+
