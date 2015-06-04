@@ -3,7 +3,7 @@ layout: page
 title: Open Resources for the Study of Manuscripts
 ---
 
-The Open Manuscripts project is using [the CITE architecture](http://cite-architecture.github.io/) to organize about manuscripts collaboratively assembled information from several related projects.
+The Open Manuscripts initiative is using [the CITE architecture](http://cite-architecture.github.io/) to organize information about manuscripts, collaboratively assembled  from several related projects.
 
 The coordinated projects include:
 
