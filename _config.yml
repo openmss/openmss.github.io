@@ -6,8 +6,8 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            Open Manuscripts
-tagline:          'Openly licensed resources for the study of manuscripts'
+title:            Open Manuscripts initiative
+tagline:          'Coordinating openly licensed resources for the study of manuscripts'
 description:      'Information about manuscripts illustrated by openly licensed images'
 
 baseurl: 'http://openmss.github.io'
